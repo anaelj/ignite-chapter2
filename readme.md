@@ -1,1 +1,6 @@
-.
+- Componentização
+- Consumindo API
+ - MiraJS "api no front-end, ótimo para testes"
+ - Axios
+- Modal & Forms
+- Contexto e Hooks
